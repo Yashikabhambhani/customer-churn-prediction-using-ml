@@ -34,4 +34,3 @@ This project focuses on predicting customer churn for a telecom company using ma
 - Compared performance across multiple classification algorithms.
 - Built a deployable machine learning pipeline for business insights.
 
-## 📁 Project Structure
