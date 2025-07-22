@@ -6,7 +6,7 @@ This project uses machine learning to predict customer churn based on demographi
 
 ## 🗂️ Dataset
 
-- **Source:** Kragle – Telco Customer Churn Dataset  
+- **Source:** Kaggle – Telco Customer Churn Dataset  
 - **Features Include:**  
   - Customer demographics (gender, senior citizen, etc.)  
   - Service details (internet service, contract type, etc.)  
