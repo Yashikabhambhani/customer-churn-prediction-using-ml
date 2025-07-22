@@ -71,6 +71,19 @@ This project uses machine learning to predict customer churn based on demographi
 - `Customer_Churn_Prediction.ipynb` – Full Jupyter notebook with code and output
 
 ---
+### 🔍 Feature Importance
+
+i examined which features most influenced the churn prediction using the trained classifier’s feature importances.
+
+Top contributing features:
+- **Contract** (highest impact)
+- **Internet Service**
+- **Online Security**
+- **Tech Support**
+- **Phone Service**
+
+This helped identify which customer attributes are most crucial in predicting churn, allowing the business to focus on high-impact retention strategies.
+
 
 ## 📬 Contact
 
